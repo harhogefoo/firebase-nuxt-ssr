@@ -1,4 +1,4 @@
-cd app && npm run build && cd ../
+cd app && yarn build && cd ../
 rm -rf dist
 mkdir -p dist
 # server
